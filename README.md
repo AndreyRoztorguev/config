@@ -1,5 +1,5 @@
 # My base configuration project
-## Lists of technologies:
+## List of technologies:
 + Webpack
 + React
 + React-dom
